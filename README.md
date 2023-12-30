@@ -1,1 +1,1 @@
-# Ecommerce-Week1-demo
+# Ecommerce-Week2-demo
